@@ -17,5 +17,5 @@ print("Hello from lesson 1")
 # thing is F
 
 for i in range(1,20):
-    print
+    print (i)
 
