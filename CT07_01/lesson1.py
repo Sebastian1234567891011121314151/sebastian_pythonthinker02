@@ -8,9 +8,9 @@ print("Hello from lesson 1")
 # thig is glass throw in glass bin
 
 # if score is higher tahn 75 
-# thing is plastic throw in plastic bin 
+# thing is A 
 # elif 
-# thing is paper throw in paper bin 
+# thing B
 # elif 
 # thig is glass throw in glass bin
 
