@@ -12,7 +12,7 @@ print("Hello from lesson 1")
 # elif 60 to 75
 # thing is B
 # elif 50 to 59
-# thig is C
-# elif 5 and lower
-# thig is C
+# thing is C
+# elif 49 and lower
+# thing is F
 
