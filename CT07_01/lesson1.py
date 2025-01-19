@@ -10,7 +10,7 @@ print("Hello from lesson 1")
 # if score is higher tahn 75 
 # thing is A 
 # elif 
-# thing B
+# thing is B
 # elif 
-# thig is glass throw in glass bin
+# thig is C
 
