@@ -9,8 +9,8 @@ print("Hello from lesson 1")
 
 # if score is higher tahn 75 
 # thing is A 
-# elif 
+# elif 60 to 75
 # thing is B
-# elif 
+# elif 50 to 
 # thig is C
 
