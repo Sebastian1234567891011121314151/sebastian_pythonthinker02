@@ -16,3 +16,6 @@ print("Hello from lesson 1")
 # elif 49 and lower
 # thing is F
 
+for i in range(1,20):
+    print
+
