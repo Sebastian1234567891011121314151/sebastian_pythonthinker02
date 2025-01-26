@@ -27,4 +27,5 @@ print("Hello from lesson 1")
 ans=input("what am i good at")
 while(ans !="nothing"):
     print("wrong")
+    ans=input("what am i good at")
   
