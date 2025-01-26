@@ -24,8 +24,8 @@ print("Hello from lesson 1")
 #     print("correct")
 # else:
 #     print("wrong")
-ans=input("what am i good at")
-while(ans !="nothing"):
-    print("wrong")
-    ans=input("what am i good at")
+# ans=input("what am i good at")
+# while(ans !="nothing"):
+#     print("wrong")
+#     ans=input("what am i good at")
   
