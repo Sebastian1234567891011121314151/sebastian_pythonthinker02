@@ -19,9 +19,12 @@ print("Hello from lesson 1")
 # for i in range(1,20):
 #     print (i)
 
+# ans=input("what am i good at")
+# if ans =="nothing":
+#     print("correct")
+# else:
+#     print("wrong")
 ans=input("what am i good at")
-if ans =="nothing":
-    print("correct")
-else:
-    print("wrong")
+while(ans !="nothing"):
+    print()
   
