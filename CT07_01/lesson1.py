@@ -23,5 +23,5 @@ ans=input("what am i good at")
 if ans =="nothing":
     print("correct")
 else:
-    p
+    print(wrong)
   
