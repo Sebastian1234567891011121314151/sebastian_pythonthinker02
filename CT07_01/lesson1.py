@@ -33,5 +33,6 @@ savings=50
 while savings<100:
     print ("saving for one more day")
     savings=savings+2
+    
 else:
     print("saved more than 100 dollars")
