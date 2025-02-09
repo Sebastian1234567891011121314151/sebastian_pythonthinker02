@@ -29,3 +29,8 @@ print("Hello from lesson 1")
 #     print("wrong")
 #     ans=input("what am i good at")
   
+savings=50
+while savings<100:
+    print ("saving for one more day")
+else:
+    print("saved more than 100 dollars")
