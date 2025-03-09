@@ -13,5 +13,5 @@
 list=[]
 
 while list:
-    while bucket > 0:
+    while list > 0:
         list = list.pop(0)
