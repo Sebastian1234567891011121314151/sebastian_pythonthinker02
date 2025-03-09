@@ -12,3 +12,5 @@
 
 list=[]
 
+while x!= 0:
+    food
