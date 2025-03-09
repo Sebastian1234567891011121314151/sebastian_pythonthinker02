@@ -12,9 +12,10 @@
 
 list=[]
 
-    
-while list != "end": 
-    food= input("What would you like to order?")
+question=input("Would you like to order?")
+if question != "no":
+    food=input("What would you like to order?")
     list.append(food)
-print(list)
+else:
+    print
     
