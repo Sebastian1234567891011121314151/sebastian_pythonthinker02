@@ -1,5 +1,5 @@
 health=100
-x = range()
+x = range(-14,0)
 import time
 import random
 print("Tim has "+ str(health) +" health")
