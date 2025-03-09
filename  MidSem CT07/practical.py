@@ -14,4 +14,5 @@ list=[]
 food= input("What would you like to order?")
 while food != "end":
     list.append(food)
+print(list)
     
