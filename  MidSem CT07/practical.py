@@ -11,8 +11,10 @@
 
 
 list=[]
-food= input("What would you like to order?")
-while food != "end":
+
+    
+while list != "end": 
+    food= input("What would you like to order?")
     list.append(food)
 print(list)
     
