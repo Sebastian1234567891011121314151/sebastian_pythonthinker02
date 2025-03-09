@@ -5,6 +5,6 @@ print("Tim has "+ str(health) +" health")
 
 while health > -1:
     health = health - random. randint(1, 15)
-    print("Tim has " + str(health) + " lft after exploring a dungeon")
+    print("Tim has " + str(health) + "  left after exploring a dungeon")
     time. sleep(1)
 print("Tim died :(")
