@@ -1,2 +1,2 @@
 health=100
-print("")
+print("Tim has "+ health +"health"
