@@ -17,4 +17,6 @@ while x!= 0:
     if food != "end":
         list.append(food)
     else:
+        x=x-1
+        
 
