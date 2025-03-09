@@ -14,4 +14,5 @@ list=[]
 
 while x!= 0:
     food=input("What would you want to eat?")
-    list.append(food)
+    if food != "end":
+        list.append(food)
