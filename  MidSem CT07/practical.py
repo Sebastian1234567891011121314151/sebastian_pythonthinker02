@@ -1,4 +1,5 @@
 health=100
+x = range()
 import time
 import random
 print("Tim has "+ str(health) +" health")
