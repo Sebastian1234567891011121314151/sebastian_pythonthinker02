@@ -15,7 +15,5 @@ list=[]
 question=input("Would you like to order?")
 if question != "no":
     food=input("What would you like to order?")
-    list.append(food)
-else:
-    print(list)
+
     
