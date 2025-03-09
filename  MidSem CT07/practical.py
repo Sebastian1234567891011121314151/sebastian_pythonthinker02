@@ -12,7 +12,6 @@
 
 list=[]
 
-question=input("Would you like to order?")
-if question != "no":
-    food=input("What would you like to order?")
-    
+while list:
+    while bucket > 0:
+        unpaid_sale = unpaid_sales.pop(0)
