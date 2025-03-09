@@ -14,4 +14,4 @@ list=[]
 
 while list:
     while bucket > 0:
-        unpaid_sale = unpaid_sales.pop(0)
+        list = list.pop(0)
