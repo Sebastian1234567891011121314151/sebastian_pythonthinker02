@@ -17,5 +17,5 @@ if question != "no":
     food=input("What would you like to order?")
     list.append(food)
 else:
-    print
+    print(list)
     
