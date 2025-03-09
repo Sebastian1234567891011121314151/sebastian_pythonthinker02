@@ -13,7 +13,7 @@
 list=[]
 x=1
 while x!= 0:
-    food=input("What would you want to eat?")
+    food=input("What would you want to eat? ")
     if food != "end":
         list.append(food)
     else:
