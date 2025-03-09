@@ -18,5 +18,5 @@ while x!= 0:
         list.append(food)
     else:
         x=x-1
-        
+        print(list)
 
