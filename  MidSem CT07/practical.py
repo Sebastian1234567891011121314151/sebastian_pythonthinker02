@@ -19,11 +19,3 @@
 #     else:
 #         x=x-1
 #         print(list)
-
-amanda = ["math", "english", "chemistry", "malay", "pe"]
-ethan = ["chinese", "pe", "history", "english", "physics", "maths"]
-common = []
-
-# Algorithms (Fill in the following m
- 
-
