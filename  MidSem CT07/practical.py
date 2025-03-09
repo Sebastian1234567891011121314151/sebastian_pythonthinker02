@@ -10,13 +10,20 @@
 # print("Tim died :(")
 
 
-list=[]
-x=1
-while x!= 0:
-    food=input("What would you want to eat? ")
-    if food != "end":
-        list.append(food)
-    else:
-        x=x-1
-        print(list)
+# list=[]
+# x=1
+# while x!= 0:
+#     food=input("What would you want to eat? ")
+#     if food != "end":
+#         list.append(food)
+#     else:
+#         x=x-1
+#         print(list)
+
+amanda = ["math", "english", "chemistry", "malay", "pe"]
+ethan = ["chinese", "pe", "history", "english", "physics", "maths"]
+common = []
+
+# Algorithms (Fill in the following m
+ 
 
