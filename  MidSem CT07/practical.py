@@ -10,4 +10,9 @@ while health > 0:
 print("Tim died :(")
 
 
-
+list=[]
+food= input("What would you like to order?")
+while food != "end":
+    print(food)
+    list.append(food)
+    
