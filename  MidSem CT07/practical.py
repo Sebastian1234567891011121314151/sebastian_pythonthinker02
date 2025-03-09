@@ -12,6 +12,3 @@
 
 list=[]
 
-while list:
-    while list > 0:
-        list = list.pop(0)
