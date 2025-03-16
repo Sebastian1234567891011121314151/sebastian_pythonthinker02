@@ -20,4 +20,3 @@
 #         x=x-1
 #         print(list)
 
-merged_list
