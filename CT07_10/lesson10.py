@@ -11,5 +11,6 @@ window.mainloop()
 
 def isElderly(age):
     if (age>65):
-        return
+        return 1 
+    return 0 
 
