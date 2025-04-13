@@ -14,3 +14,5 @@ def isElderly(age):
         return 1 
     return 0 
 
+age=
+
