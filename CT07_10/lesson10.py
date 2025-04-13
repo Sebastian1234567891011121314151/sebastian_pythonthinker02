@@ -22,3 +22,6 @@ if isElderly(int(age)):
 else:
     print("You are not eligible for an elderly discount")
 
+
+import random 
+
