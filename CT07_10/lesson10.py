@@ -24,4 +24,4 @@ else:
 
 
 import random 
-
+x=random.ranint
