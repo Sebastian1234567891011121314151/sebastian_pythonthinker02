@@ -9,3 +9,7 @@ for i in range(4):
     t.right(90)
 window.mainloop()
 
+def isElderly(age):
+    if (age>65):
+        return
+
